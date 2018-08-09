@@ -1,10 +1,10 @@
 {
-  "name": "react-linkedin-login",
-  "version": "1.0.3",
-  "description": "React LinkedIn Login button",
+  "name": "react-linkedin-login-brs",
+  "version": "1.0.0",
+  "description": "React LinkedIn Login button by BowRiverStudio",
   "main": "./lib",
-  "repository": "https://github.com/orionsoft/react-linkedin-login",
-  "author": "nicolaslopezj",
+  "repository": "https://github.com/yaidelferrales/react-linkedin-login",
+  "author": "yaidelferrales",
   "license": "MIT",
   "scripts": {
     "build": "babel ./src --out-dir ./lib",
